@@ -2,7 +2,9 @@
 An AI assistant for A Level learning helper, powered by InternLM
 
 ---
+
 AlevelHelper is a comprehensive study assistant designed to help students achieve top grades (A*) in their A-level exams. By leveraging intern-powered data and advanced AI technologies, AlevelHelper provides personalized guidance, practice questions, and detailed explanations to ensure success.
+
 ---
 
 ## Architecture
